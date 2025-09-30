@@ -28,3 +28,4 @@ try:
 except ImportError:
     print("❌ PIL (Pillow) not available for ICO creation")
     print("   The SVG favicon will work in modern browsers")
+
